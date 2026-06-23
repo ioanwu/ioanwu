@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I’m currently working on setting up Neural Networks (DNNs, CNNs, RNNs) for classification and regression problems.
+🔭 I'm currently building customized neural networks (DNNs, CNNs, RNNs) to recognize patterns and predict outcomes in popular datasets like the MNIST dataset.
 
 🌱 Computer science student driven by creative coding. I enjoy turning abstract ideas into interactive digital projects and building engaging, imaginative user experiences.
 
