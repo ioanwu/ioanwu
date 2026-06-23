@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+🔭 I’m currently working on setting up Neural Networks (DNNs, CNNs, RNNs) for classification and regression problems.
+
+🌱 I’m aiming to learn how to use coding for creative projects.
+
+⚡ Fun facts:
+- I'm interested in robotics and especially creative projects like "Cyber Decks"
+- I love gaming, my favourite games are most often about the open-world exploration, action RPGs and turn-based games.
+- I have a passion of all things that are aesthetic, creating collages and using references for paintings, drawings and even sculptures. 
+
+
 <!--
 **ioanwu/ioanwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
