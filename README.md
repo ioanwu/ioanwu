@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔭 I'm currently building customized neural networks (DNNs, CNNs, RNNs) to recognize patterns and predict outcomes in popular datasets like the MNIST dataset.
+🔭 Currently co-developing a REST API using C# and .NET and building customized neural networks (DNNs, CNNs, RNNs).
 
 🌱 Computer science student driven by creative coding. I enjoy turning abstract ideas into interactive digital projects and building engaging, imaginative user experiences.
 
