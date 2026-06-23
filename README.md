@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on setting up Neural Networks (DNNs, CNNs, RNNs) for classification and regression problems.
 
-🌱 I’m aiming to learn how to use coding for creative projects.
+🌱 Computer science student driven by creative coding. I enjoy turning abstract ideas into interactive digital projects and building engaging, imaginative user experiences.
 
 ⚡ Fun facts:
 - I'm interested in robotics and especially creative projects like "Cyber Decks"
